@@ -1,1 +1,4 @@
-this is written in c language
+#inculd <>studio.h>
+int main() {
+printf("hello world!");
+return 0:}
