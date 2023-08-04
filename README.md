@@ -1,1 +1,1 @@
-this is writtin in c language
+this is writting in c language
